@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    println("Hellow world!")
+    println("Hellow, Kotlin world!")
 }
